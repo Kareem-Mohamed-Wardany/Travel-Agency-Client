@@ -4,7 +4,7 @@ A modern, fully responsive travel booking platform, built with Next.js, Tailwind
 
 ## 🎥 Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/Vqw9DIA4POg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Vqw9DIA4POg)
 
 Click the image above to watch the demo!
 
