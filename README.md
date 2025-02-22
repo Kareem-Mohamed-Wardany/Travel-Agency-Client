@@ -2,6 +2,12 @@
 
 A modern, fully responsive travel booking platform, built with Next.js, Tailwind CSS, and Redux for state management. The platform allows customers to browse available trips, book reservations, manage their bookings. Admins can manage trips.
 
+## 🎥 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+Click the image above to watch the demo!
+
 ## Features
 
 ### Customer Features
